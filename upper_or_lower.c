@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void letter()
+void main()
 {
     printf("Made by ImKool-Gitch\n");
     char character;
